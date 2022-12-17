@@ -30,8 +30,9 @@ while (i < 3){
                 
                 break;
             } 
-     }
-     else{
-        Connsole.Writeline("Error, vuelve a ingresar el número.");
-     }
+        }
+    }
+    else{
+        Console.Writeline("Error, vuelve a ingresar el número.");
+    }
 }
